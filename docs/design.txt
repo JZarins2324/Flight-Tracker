@@ -1,0 +1,2 @@
+Purpose Statement:
+This program is meant to be a flight manager.  With this flight manager, the user will be able to view flights, people on those flights and the planes that were used for the flight.  They will also be able to view information like how many open seats there are for certain flights.
